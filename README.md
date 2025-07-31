@@ -151,4 +151,4 @@ Feel free to open issues or submit pull requests. See `CONTRIBUTING.md` for guid
 
 ## License
 
-This project is licensed under the MIT
+This project is licensed under the MIT!
